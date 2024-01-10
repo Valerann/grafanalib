@@ -1,0 +1,6 @@
+docker:
+  scan:
+    disable: true
+snyk:
+  enable: false
+  team: core
